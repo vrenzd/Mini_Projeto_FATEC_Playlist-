@@ -73,3 +73,6 @@ Acesse via navegador em `http://localhost:8501`
 ```bash
 python main.py
 ```
+### Observação
+
+- Para mais detalhes acesse o badge: [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/vrenzd/Mini_Projeto_FATEC_Playlist-)
